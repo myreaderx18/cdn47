@@ -1,0 +1,691 @@
+<!-- <html><head><title></title></head><body></body></html>  -->
+<!DOCTYPE HTML>
+<html>
+<!--
+Cross Builder V2.0
+page version: 5.5
+by 网络媒体事业群办公室_商业体验中心
+合作请RTX shelleyhe
+-->
+<head>
+	<meta charset="gb2312">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="Keywords" content="反腐 监察委">
+	<title>新设监察委之外，这几个反腐体制改革同样影响深远</title>
+    <!-- //mat1.gtimg.com/www/mb/cb2/global/assets/css/crossbuilder.css
+         ../../../global/assets/css/crossbuilder.css
+    -->
+    <link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/global/assets/css/crossbuilder.css">    
+   	<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/css/pbt_style_v.1.4.css">
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/css/mc_dianzan/dianzan_style_v1.0.css">
+    <!-- html5.js for IE less than 9 -->
+    <!--[if lt IE 9]>
+        <script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/html5.js"></script>
+    <![endif]-->
+
+    <style>
+       
+			/* 背景颜色设置 */
+        html, .pbt_intro_wrapper.style-0 .box_icon{ background-color: #FFFFFF!important;}
+        
+        /* 整体颜色设置 */
+        div,span,p,a, h2, h3,h4{color: #555555!important;}
+        h2,h3,h4{border-color:#555555!important;}
+        /* 针对财经频道 */
+        @media only screen and (max-width: 480px){
+            /* 针对财经频道 */
+            .pbt_container.size_full {margin: 0px auto 10px auto; }
+        }
+
+    </style>
+</head>
+
+<body data-src="">
+<div id='wx_pic' style='margin:0 auto;display:none;'><img src='http://inews.gtimg.com/newsapp_ls/0/990167747/0' /></div>
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb/publish/assets/css/cb_toolbar_v2.css"><div class="cb_toolbar" id="logoPanel"><div class="mod_inner"><div class="logo"><a href="http://news.qq.com" class="newslogo"></a></div><div class="link"><ul><li><a href="http://www.qq.com" target="_blank">腾讯网首页</a></li><li class="end"><a href="http://www.qq.com/map/" target="_blank">网站导航</a></li></ul></div>
+            <script language="JavaScript">
+                var hdPic ={url:location.href,title:"0",pic: [], pic1: []};
+                 var cbtb_url = "";
+                    var login = {
+                        loginSuccess: function(){
+                            ptlogin2_onClose();
+                            cbtb_init();
+                        }
+                    };
+            </script>
+            <div class="shareList">
+                <div class="share_btn">
+                    <span>分享到：</span>
+                </div>
+                    <ul class="menu-bd">
+                        <li class="share2weibo" id="cb_share2weibo" title="转播腾讯微博"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTweibo"></a></li>
+                        <li class="share2qzone" id="cb_share2qzone" title="分享到我的QQ空间"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTzone"></a></li>
+                        <li class="share2qq" id="cb_share2qq" title="分享到QQ好友"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTQQ"></a></li>
+                        <li class="share2sina" id="cb_share2sina" title="转播到新浪微博"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTsina"></a></li>
+                        <li class="share2wx" id="cb_share2wx" title="分享到微信"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTwx"></a></li>
+                        <li class="share2wxf" id="cb_share2wxf" title="分享到朋友圈"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTwxf"></a></li>
+                    </ul>
+
+                <div class="tb_wx_share" id="cb_share_div" style="display:none;">
+                        <div class="tb_wx_share_triangle" id="cb_ts_triangle"></div>
+                        <div class="tb_wx_share_left"><img src="http://inews.gtimg.com/newsapp_ls/0/990197251/0"></div>
+                        <div class="tb_wx_share_right">
+                          <ul>
+                            <li class="a"><div></div><p>扫一扫二维码</p></li>
+                            <li class="i"></li>
+                            <li class="b"><div></div><p>点击右上角图标</p></li>
+                            <li class="i"></li>
+                            <li class="c" id="cb_ts_wx"><div></div><p>发送给微信好友</p></li>
+                            <li class="d" id="cb_ts_wxf"><div></div><p>分享到朋友圈</p></li>
+                          </ul>
+                        </div>
+                    </div>
+            </div>
+            <script language="JavaScript" src="//mat1.gtimg.com/www/mb/cb/publish/assets/js/cb_share_v1.js"></script>
+        </div><div class="tb_login_content">
+                <div id="tb_login_content_in" style="display:none;">
+                    <a href="javascript:void(0);" id="http_login">
+                        [登录]
+                    </a>
+                </div>
+                <div id="tb_login_content_out" style="display:none;">
+                    <span>
+                        您好，
+                        <i id="tb_qq_uid">
+                        </i>
+                    </span>
+                    <a href="javascript:void(0);" id="http_logout">
+                        [退出]
+                    </a>
+                </div>
+            </div>
+            <div id="login_div" class="login_div">
+                <iframe id="login_frame" frameborder="0" scrolling="no"></iframe>
+            </div>
+            <div id="overlay"></div>
+        </div>
+        <script language="JavaScript" src="//imgcache.qq.com/ptlogin/ac/v9/js/ptloginout.js"></script>
+        <script language="JavaScript" src="//mat1.gtimg.com/www/mb/cb/publish/assets/js/cbtb_qq_wx_userlogin_v1.js" charset="utf-8"></script>
+        <script language="JavaScript">
+            cbtb_init();
+        </script><!-- Main Content -->
+<div class="pbt_main_container pbt_m_main anim main_content">
+    <!-- 段落导航-Nav -->
+    <div class="pbt_container size_nav" style="position:relative">
+        <div class="main_nav">
+            <div class="box-btnMobilefold">
+                <a class="btn-fold none-bgImg" style="background-color:#ADADAD" id="btnParaMobileFold">
+                    <!-- fill 颜色：data-activefontcolor -->
+                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                         width="33px" height="31px" viewBox="0 0 33 31" enable-background="new 0 0 33 31" xml:space="preserve" class="nav-icon">
+                         <g> <g> <path fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" d="M21.214,11.923H0v7.154h21.214V11.923z M0,23.847V31h33v-7.153H0 z M30,0H0v7.154h30V0z" style="fill:#FFFFFF;"/> </g> </g>
+                    </svg>
+                </a>
+            </div>
+            <ul id="paraNav" 
+                 data-fontcolor="FFFFFF" 
+                 data-bgcolor="ADADAD" 
+                 data-activefontcolor="FFFFFF" 
+                 data-activebgcolor="363636"
+            >
+                <li>
+                    <a class="action_top" data-target="JS_Anchor_Top"> 返回顶部 <em>></em></a>
+                </li>
+            </ul>
+        </div>
+    </div>    
+
+    <div class="pbt_container size_full">
+        <div class="pbt_one_grid">
+            <div class="pbt_img_wrap one init-banner">
+                <img class="MobileOrPC lazyCB" data-size="" data-original="" data-mobile-src="http://inews.gtimg.com/newsapp_ls/0/990195474/0" data-mobile-size="960x654" data-pc-src="http://inews.gtimg.com/newsapp_ls/0/990195297/0" data-pc-size="960x417" >
+            </div>
+        </div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_intro_wrapper style-1">
+            <!-- 背景颜色 : 如果为 Default 则不设置 "background-color"；边框颜色：如果为 Default 则不设置 "border-color" -->
+            <div class="box_wrapper" style="background-color:#F1F1F1; border-color:#Default;">
+                <div class="box_icon top"><img src=""></div>
+                <div class="box_icon bottom"><img src=""></div>
+                <div class="pbt_text_wrap pc-style">                    
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">导读</span>
+                        <!-- PC端文字详情 -->
+                        1月6日至8日，十八届中纪委七次全会即将召开。十八大以来，在持续强力打虎拍蝇同时，反腐体制改革也在持续深入推进。举其大者，如新设监察委、改革地方纪委书记提名考察办法、增设纪检监察室、巡视“杀回马枪”、制定问责条例等。
+                    </p>
+                </div>
+                <div class="pbt_text_wrap mobile-style">
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">导读</span>
+                        <!-- Mobile端文字详情 -->
+                        1月6日至8日，十八届中纪委七次全会即将召开。十八大以来，在持续强力打虎拍蝇同时，反腐体制改革也在持续推进。举其大者，如新设监察委、改革地方纪委书记提名考察办法、增设纪检监察室、巡视“杀回马枪”、制定问责条例等。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" style="display:none">
+                        <img src="">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">新设监察委员会，更有效地反腐</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>2016年12月26日，国家监察体制改革试点工作正式在北京、山西、浙江施行。王岐山同月底到三个试点地区调研时指出，监察委员会的实质就是反腐败机构。</p><p>监察委由本级人大产生，监察委主任由本级人大选举产生；监察委副主任、委员，由监察委主任提请本级人大常务委员会任免。监察委对本级人大及其常务委员会和上一级监察委员会负责，并接受监督。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="640x1183" data-original="http://inews.gtimg.com/newsapp_ls/0/990356962/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>澎湃新闻报道，参与此次监察体制改革决策咨询的中国政法大学副校长马怀德指出，监察委不是党的机构，它和党的机构“合署办公”；它也不是政府机构，因为它已经从政府机构中独立出来，形成了一个跟政府“平行”的机构。因此，它是一个国家监督机关。中央将此次改革定性为重大的政治改革，是由“一府两院”变成“一府一委两院”，“一委”即国家监察委员会。而这个“一委”，对“一府”“两院”都有监督职责。</p><p>外媒分析称，监察体制改革一方面将中共监察权力转换为国家权力，另一方面使反腐败力量集中并从现有行政权力结构中独立出来，从而更有效、更合法地实现反腐目标。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_normal"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" style="display:none">
+                        <img src="">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">改革纪委书记提名办法，免受掣肘</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>2015年3月26日，《省（自治区、直辖市）纪委书记、副书记提名考察办法（试行）》等三个《提名考察办法》印发，为强化上级纪委对下级纪委的领导，增强纪委监督权的相对独立性和权威性，提供了有力的组织制度保障。同时，经过一些地区、部门的试点，下级纪委向上级纪委报告线索处置和纪律审查情况的改革措施逐步向规范化迈进，“查办腐败案件以上级纪委领导为主”的改革要求逐步做实。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="640x635" data-original="http://inews.gtimg.com/newsapp_ls/0/990126698/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>简言之，改革后，地方纪委权力扩大：查案上，不再受同级党委掣肘；考核上，书记改由上级纪委提名。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_normal"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" style="display:none">
+                        <img src="">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">增设纪检监察室，对部委地方“下手”</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>2014年3月，中央纪委监察部进行内部机构调整，新设了2个纪检监察室和1个纪检监察干部监督室，其中负责联系地方的纪检监察室由6个增加到7个，同时联系地点加上中央驻港澳办公室。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="640x593" data-original="http://inews.gtimg.com/newsapp_ls/0/990223542/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>负责联系中央国家机关和央企的纪检监察室则由4个增加至5个，同时联系单位加上中央直属机关、政法和宣传口的单位。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="640x250" data-original="http://inews.gtimg.com/newsapp_ls/0/990136257/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>此外，在内设机构职能部门总数不变的情况下，中纪委增设了纪检监察干部监督室，负责监督和检查纪检监察系统的干部，并受理有关纪检监察干部违纪违法问题的案件审查工作等，对自己人“下狠手”。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_normal"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" style="display:none">
+                        <img src="">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">巡视首杀“回马枪”，打落多名老虎</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>十八大以来，巡视工作通过明确职能定位、强化政治巡视，以及实行“三个不固定”、探索专项巡视、采取“点穴式”、“巡查式”、“回访式”等一系列创新机制和制度，既为实现全覆盖目标提供重要保证，又助推巡视的震慑、遏制和治本作用得到有效发挥。</p><p>2016年，3轮巡视共覆盖91家单位党组织，占中央全覆盖任务总数的三分之一，继完成对地方、国有重要骨干企业、中央金融单位全覆盖之后，又完成了对中央和国家机关的全覆盖。目前，十八届中央巡视已开展11轮，覆盖了240多个党组织。</p><p>2016年，中央巡视首现“回头看”：中央第九轮、第十轮、第十一轮巡视共对北京、天津、重庆等12个省区市杀出“回马枪”。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="640x548" data-original="http://inews.gtimg.com/newsapp_ls/0/990166419/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>“回马枪”的效果非常明显。如，2016年2月底，中央巡视组对辽宁、安徽、山东、湖南等4个省展开十八大后中央巡视的首次“回头看”。随后，辽宁、安徽、山东3省均有“老虎”落马，如安徽省原副省长杨振超，辽宁省委原常委、政法委原书记苏宏章等。</p><p>此外，中纪委还在中央办公厅、中央组织部、中央宣传部、中央统战部、全国人大机关、国务院办公厅、全国政协机关等中央和国家机关设立7家派驻机构，其中5家实行综合派驻，这一具有开拓性的实践，为实现派驻全覆盖创新了方法、探索了路径。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_normal"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" style="display:none">
+                        <img src="">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">党内法规相继出台，反腐经验制度化</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>改革成果最终要由制度来确定。近来，《关于新形势下党内政治生活的若干准则》《中国共产党党内监督条例》《中国共产党问责条例》3部党内法规相继出台。《准则》《监督条例》起草历时8个月，中央政治局常委会召开3次会议、中央政治局召开2次会议分别审议文件稿。各有关部门共提出1955条修改意见，扣除重复意见后为1582条，其中原则性意见354条、具体意见1228条。在制定《问责条例》过程中，中央纪委主要领导同志先后13次主持召开相关会议。征求各地区各部门共180余家单位的意见建议。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="640x428" data-original="http://inews.gtimg.com/newsapp_ls/0/990166092/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_intro_wrapper style-1">
+            <!-- 背景颜色 : 如果为 Default 则不设置 "background-color"；边框颜色：如果为 Default 则不设置 "border-color" -->
+            <div class="box_wrapper" style="background-color:#F1F1F1; border-color:#Default;">
+                <div class="box_icon top"><img src=""></div>
+                <div class="box_icon bottom"><img src=""></div>
+                <div class="pbt_text_wrap pc-style">                    
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">结语</span>
+                        <!-- PC端文字详情 -->
+                        反腐要治标，更要治本。据统计，十八大以来，已先后有180多名省部级（副军级及以上）官员因腐败落马。但是，治标易，治本难。唯有不断进行体制改革，才有可能从根本上铲除腐败。
+                    </p>
+                </div>
+                <div class="pbt_text_wrap mobile-style">
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">结语</span>
+                        <!-- Mobile端文字详情 -->
+                        反腐要治标，更要治本。据统计，十八大以来，已先后有180多名省部级（副军级及以上）官员因腐败落马。但是，治标易，治本难。唯有不断进行体制改革，才有可能从根本上铲除腐败。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>资料来源：澎湃新闻、人民网、中纪委网站</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_bold"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="600x600" data-original="http://inews.gtimg.com/newsapp_ls/0/990081874/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-align: center;">欢迎关注新闻百科官方微信</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><!-- 00 内页 Dom - 内页大图 : 单例-图文叠加，垂直居左 -->
+<!-- 评论  -->
+<div class="pbt_container cbtb_comment">
+    <div class="pcomment">
+        <div class="row one">
+            <h3><span id='comment_total_num'>0</span> 条评论</h3>
+        </div>
+        <div class="row">
+            <ul id='comment_list_show'>
+            </ul>
+            <div class="nav_wrapper">
+                <a id='get_more_comment' class="btn-more">加载更多</a>
+                <span style="display:none">正在加载更多评论...</span>
+            </div>
+        </div>
+
+        <!-- 已经登录：直接评论 -->
+        <div id='hasLogin' class="row hasLogin" style="display:block">
+            <p>添加评论</p>
+            <form method="post" id="commentForm" target="ajaxUpload" action="http://w.coral.qq.com/article/comment/">
+                <div class="textarea_wrapper" >
+                    <textarea name="content" id='comment_content'></textarea>
+                </div>
+                <input type="hidden" name="targetid" id="targetid" value="">
+                <input type="hidden" name="format" value="SCRIPT">
+                <input type="hidden" name="source" value="3">
+                <input type="hidden" name="callback" value="parent.topCallback">
+                <input type="hidden" name="code" value="1">
+                <input type="hidden" name="g_tk" id="token" value="">
+                <input type="hidden" name="_method" value="put">
+                <input type="hidden" name="appid" id="appid" value="wxabf7956d52750cd9">
+                <input type="hidden" name="access_token" id="access_token" value="">
+                <input type="hidden" name="openid" id="openid" value="">
+                <input type="hidden" name="logintype" id="logintype" value="1">
+                <input type="hidden" name="wxapi" id="wxapi" value="2.1">
+            </form>
+            <iframe name="ajaxUpload" style="display:none"></iframe>
+            <div class="nav_wrapper">
+                <a id='comment_submit' class="btn-submit btn-loginSubmit">发表评论 > </a>
+            </div>
+        </div>
+
+        <!-- 没有登录：点击登录 -->
+        <div id='noLogin' class="row notLogin" style="display:none">
+            <a id="login_qq_btn" class="btn-submit btn-gotoLogin">登录并发表评论 > </a>
+        </div>
+    </div>            
+</div>
+<script>
+var targetid = 1701767922;
+</script>
+    <!-- 版权页  --> 
+    <div id="copyrightPanel">
+        <div class="just-pc">
+            <p>Copyright &copy; 1998 - 2017 Tencent. All Rights Reserved</p>
+            <p>腾讯公司 版权所有</p>
+        </div>
+        <div class="just-mobile">
+            <!-- data-init : if (默认设置 'default'), else if (用户上传设置 'user'), else if (不添加设置 'null') -->
+                <div class="box-img" data-init="default">                
+                <img class="lazyCB" data-size="266x66" data-original="http://inews.gtimg.com/newsapp_ls/0/248733672/0">
+            </div>
+        </div>
+    </div>     
+    <!-- 版权页 End  -->  
+</div>
+<!-- Button : Goto Top -->
+<div id="pbt_backToTop" style="background-color:#eeeeee; visibility:visible;"></div>
+
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/jquery-1.10.2.min.js"></script>        <!-- 必需加载 ：jQuery -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/cbtools.1.0.js"></script>              <!-- Global Tools -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/jquery.lazyload.js"></script>          <!-- 必需加载 ：lazyload -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/require.js"></script>
+<script src="//mat1.gtimg.com/www/mb/cb/publish/assets_auto/js/api_v2.js" charset="utf-8"></script>
+<!-- 微信登陆态获取-->
+<script src="//mat1.gtimg.com/www/mb/cb2/publish/js/comment_v3.js"></script>
+
+<script type="text/javascript">
+var chartDataArr = [];
+
+$(function() {
+		try{
+		//分享
+		var wxShareUrl = "http://news.qq.com/cross/20170104/OMc4404j.html";
+		if(window.location.host.indexOf('m.')=="0" || wxShareUrl==""){
+			var wxShareUrl= window.location.href;
+			wxShareUrl = wxShareUrl.replace(window.location.hash,"");
+			wxShareUrl = wxShareUrl.replace(window.location.search,"");
+		}
+		cbApi.wexin("http://inews.gtimg.com/newsapp_ls/0/990167747/0",wxShareUrl,"盘点反腐体制5大改革：新设监察委，更合法地反腐","反腐体制改革举其大者，如新设监察委、改革纪委书记提名考察办法、增设纪检监察室、巡视“杀回马枪”等。");
+	}catch(e){}
+
+    var page = {
+        init : function(){
+            requirejs.config({
+                baseUrl: '//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/js/',        //* Set : base-root :: //mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/js/ 
+                paths: {
+                    "global-tools": "//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools"   //* Set : my-define-src`
+                }
+            });
+
+            // Start loading the main app file.
+            requirejs(['Main_v3.4']);
+        }
+    }
+
+    page.init();
+});
+
+</script>
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/global/assets/css/comment.css">   
+<script type="text/javascript">
+var backUrl = window.location.href;
+var __uin ="";
+//初始化获取文章信息
+$(document).ready(function () {
+	var ua = navigator.userAgent;
+	var isqqnews = ua.match(/qqnews\/([\d.]+)/);
+	if(isqqnews){
+		$('.cbtb_comment').hide();
+	}else{
+		__uin = getUin();
+		initStart();
+	}
+
+});
+</script>
+	<script language="javascript" src="//mat1.gtimg.com/ping.js"></script>
+	<script language="javascript">
+	if(typeof(pgvMain) == 'function') pgvMain();
+	</script>
+	</body>
+</html>
+<!--[if !IE]>|xGv00|180f9f1d3fdecbf4686c80fe7be33b57<![endif]-->
